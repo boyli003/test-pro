@@ -6,10 +6,6 @@ public class javaTest {
      * @param args
      */
     public static void main(String[] args) {
-        int a = 1;
-        int b =2;
-        int d = 4;
-        int c = 3;
-        int f = 6;
+
     }
 }
