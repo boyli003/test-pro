@@ -4,7 +4,7 @@
 public class Test {
     private int id;
     private String name;
-
+    private int c;
     public int getId() {
         return id;
     }
