@@ -1,7 +1,3 @@
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-
 /**
  * Created by lichangjun1 on 2016/8/30.
  */
@@ -13,5 +9,6 @@ public class javaTest {
         int a = 1;
         int b =2;
         int d = 4;
+        int c = 3;
     }
 }
