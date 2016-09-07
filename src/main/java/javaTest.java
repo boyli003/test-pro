@@ -10,5 +10,6 @@ public class javaTest {
         int b =2;
         int d = 4;
         int c = 3;
+        int f = 6;
     }
 }
